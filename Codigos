@@ -1,0 +1,512 @@
+//int num1, num2, num3, num4, num5, num6, num7, num8, num9, num10;
+//Console.WriteLine("Ingrese el primer numero: ");
+//num1=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el segundo numero: ");
+//num2=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el tercer numero: ");
+//num3=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el cuarto numero: ");
+//num4=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el quinto numero: ");
+//num5=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el sexto numero: ");
+//num6=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el septimo numero: ");
+//num7=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el octavo numero: ");
+//num8=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el noveno numero: ");
+//num9=int.Parse(Console.ReadLine());
+//Console.WriteLine("Ingrese el decimo numero: ");
+//num10=int.Parse(Console.ReadLine());
+//if(num1>=num2 && num1 >= num3 && num1 >= num4 && num1>=num5 && num1>=num6 && num1>=num7 && num1>=num8 && num1>=num9 && num1>=num10)
+//{
+  //  Console.WriteLine($"El numero mayor es:{num1}");
+//}
+//else if(num2>=num1 && num2>=num3 && num2>=num4 && num2>=num5 && num2>=num6 && num2>=num7 && num2>=num8 && num2>=num9 && num2>=num10)
+//{
+  //  Console.WriteLine($"El numero mayor es: {num2}");
+//}
+//else if(num3>=num1 && num3>=num2 && num3>=num4 && num3>=num5 && num3>=num6 && num3>=num7 && num3>=num8 && num3>=num9 && num3>=num10)
+//{
+ //   Console.WriteLine($"El numero mayor es: {num3}");
+//}
+//else if(num4>=num1 && num4>=num2 && num4>=num3 && num4>=num5 && num4>=num6 && num4>=num7 && num4>=num8 && num4>=num9 && num4>=num10)
+//{
+  //  Console.WriteLine($"El numero mayor es: {num4}");
+//}
+//else if(num5>=num1 && num5>=num2 && num5>=num3 && num5>=num4 && num5>=num6 && num5>=num7 && num5>=num8 && num5>=num9 && num5>=num10)
+//{
+  //  Console.WriteLine($"El numero mayor es: {num5}");
+//}
+//else if(num6>=num1 && num6>=num2 && num6>=num3 && num6>=num4 && num6>=num5 && num6>=num7 && num6>=num8 && num6>=num9 && num6>=num10)
+//{
+  //  Console.WriteLine($"El numero mayor es: {num6}");
+//}
+//else if(num7>=num1 && num7>=num2 && num7>=num3 && num7>=num4 && num7>=num5 && num7>=num6 && num7>=num8 && num7>=num9 && num7>=num10)
+//{
+  //  Console.WriteLine($"El numero mayor es: {num7}");
+//}
+//else if(num8>=num1 && num8>=num2 && num8>=num3 && num8>=num4 && num8>=num5 && num8>=num6 && num8>=num7 && num8>=num9 && num8>=num10)
+//{
+  //  Console.WriteLine($"El numero mayor es: {num8}");
+//}
+//else if(num9>=num1 && num9>=num2 && num9>=num3 && num9>=num4 && num9>=num5 && num9>=num6 && num9>=num7 && num9>=num8 && num9>=num10)
+//{
+  ///  Console.WriteLine($"El numero mayor es: {num9}");
+//}
+//else if(num10>=num1 && num10>=num2 && num10>=num3 && num10>=num4 && num10>=num5 && num10>=num6 && num10>=num7 && num10>=num8 && num10>=num9)
+//{
+  //  Console.WriteLine($"El numero mayor es: {num10}");
+//}
+//Console.ReadKey();
+//
+//int cand1, cand2, cand3, cand4, cand5, porcen;
+//Console.WriteLine("¿Cuantos botos obtuvo el candidato 1?");
+//cand1=int.Parse(Console.ReadLine());
+//Console.WriteLine("¿Cuantos botos obtuvo el candidato 2? ");
+//cand2=int.Parse(Console.ReadLine());
+//Console.WriteLine("¿Cuantos botos obtuvo el candidato 3? ");
+//cand3=int.Parse(Console.ReadLine());
+//Console.WriteLine("¿Cuantos botos obtuvo el candidato 4? ");
+//cand4=int.Parse(Console.ReadLine());
+//Console.WriteLine("¿Cuantos botos obtuvo el candidato 5? ");
+//cand5=int.Parse(Console.ReadLine());
+
+//porcen=cand1+cand2+cand3+cand4+cand5/5;
+
+//Console.WriteLine($"El porcentaje es igual a:{porcen} ");
+//porcen=int.Parse(Console.ReadLine());
+
+//Console.ReadKey();
+//int suma=0;
+//int suma2=0;
+//int suma3=0;
+//int n=0;
+//Console.WriteLine("ingrese el numero de ventas:");
+//int ventas=Convert.ToInt32(Console.ReadLine());
+//while (n!=ventas)
+//{
+ //n++;
+  //  Console.WriteLine("ingresa el total de cada venta:");
+   // double v1=Convert.ToDouble(Console.ReadLine());
+    //if(v1<=1000) 
+//{
+ //suma++;
+//}
+//else
+//{
+  //  if (v1<=5000)
+   // {
+     //   suma2++;
+   // }
+    //else
+    //{
+     //   if(v1>5000)
+      //  {
+       //     suma3++;
+        //}
+        
+   // }
+//}
+
+//}
+//Console.WriteLine("la que fueron cantidad de ventas menores de 1,000 son:"+ suma);
+//Console.WriteLine("las que fueron cantidad de ventas mayores de 1,000 son: " + suma2);
+//Console.WriteLine(" las que fueron cantidad de ventas mayores de 5,000 son:" + suma3);
+
+// operaciones de numeros
+//Console.WriteLine("Dame el primer numero");
+//int num1=int.Parse(Console.ReadLine());
+//Console.WriteLine("Dame el segundo numero");
+//int num2=int.Parse(Console.ReadLine());
+//Console.WriteLine($"La suma de los numeros es {num1 + num2}");
+//Console.WriteLine($"La resta de los numeros es {num1 - num2}");
+//Console.WriteLine($"La multiplicación de los numeros es {num1 * num2}");
+//Console.WriteLine($"La división de los numeros es {num1 / num2}");
+//const int VALOR = 5;
+//const int VALOR2 = 7;
+//Console.WriteLine("El valor de la constante: {1}", VALOR, VALOR2);
+//Programa que calcula el area de un circulo
+//const double PI = 3.1416;
+//Console.WriteLine("introduce la medida del radio");
+//double radio=double.Parse(Console.ReadLine());
+//double area = radio * radio * PI;
+//double area = Math.Pow(radio, 2)*PI;
+//Console.WriteLine($"El area del circulo es: {area}");
+
+//programa que calcula el menor y el mayor de 10 numeros
+//int menor=0, mayor=0 i=0, num=0;
+
+//for(i=1; i<=10; i++)
+//{
+  //Console.WriteLine("Dame el numero " + i );
+  //num=Convert.ToInt32(Console.ReadLine());
+
+  //if(int==1)
+  //{
+   // mayor=num;
+    //menor=num;
+  //}
+  //else
+  //{
+    //if(num>mayor)
+    //{
+     // mayor=num;
+   // }
+   // if(num<menor)
+    //{
+     // menor=num;
+    //}
+  //}
+//}
+//Console.WriteLine($"El mayor de los numeros es: {mayor}");
+//Console.WriteLine($"El menor de los numeros es: {menor}");
+
+//botos de los candidatos
+//int i = 1;
+//int cand1 = 0;
+//int cand2 = 0;
+//int cand3 = 0;
+//int cand4 = 0;
+//int cand5 = 0;
+//int votos = 0;
+//while (i != 0) 
+//{
+ //   Console.WriteLine("Escoja el candidato por el que desee votar");
+  //  Console.WriteLine("(1) Maria (2)Zenigata (3)Amelia (4)Jorge (5)Julian (0) Terminar captura");
+   // int opcion = Convert.ToInt32(Console.ReadLine());
+    //switch (opcion)
+    //{
+      //  case 0:
+       //     i = 0;
+        //    Console.WriteLine($"Hubo un total de {votos} votos.");
+         //   Console.WriteLine($"El candidato 1 obtuvo el {cand1*100/votos} porciento de los votos");
+           // Console.WriteLine($"El candidato 2 obtuvo el {cand2*100/votos} porciento de los votos");
+           // Console.WriteLine($"El candidato 3 obtuvo el {cand3*100/votos} porciento de los votos");
+            //Console.WriteLine($"El candidato 4 obtuvo el {cand4*100/votos} porciento de los votos");
+            //Console.WriteLine($"El candidato 5 obtuvo el {cand5*100/votos} porciento de los votos");
+            //break;
+
+        //case 1:
+         //   votos++;
+           // cand1++;
+            //break;
+
+        //case 2:
+         //   votos++;
+           // cand2++;
+            //break;
+
+        //case 3:
+         //   votos++;
+           // cand3++;
+            //break;
+
+        //case 4:
+          //  votos++;
+           // cand4++;
+            //break;
+
+        //case 5:
+          //  votos++;
+            //cand5++;
+           // break;
+
+    //}
+//}
+
+//practica de if
+//int num1, num2;
+//Console.WriteLine("dame el primer numero");
+//num1=int.Parse(Console.ReadLine());
+//Console.WriteLine("dame el segundo numero");
+//num2=int.Parse(Console.ReadLine());
+
+//Console.WriteLine($"El resultado de la suma es: {num1+num2}");
+
+//if (num1>num2)
+//{
+  //Console.WriteLine($"El numero mayor es: {num1} ");
+//}
+//else if(num1<num2)
+//{
+  //Console.WriteLine($"el numero mayor es: {num2}");
+//}
+//else if(num1==num2)
+//{
+ // Console.WriteLine($"los numeros son iguales");
+//}
+
+//uso While
+//Random numero = new Random();
+//int numeroAleatorio = numero.Next(0,100);
+//Console.WriteLine($"numero random {numeroAleatorio}");
+//int num;
+
+//Console.WriteLine("Quieres jugar al juego?");
+ //num = int.Parse (Console.ReadLine());
+
+ //int acomulador=0;
+
+//while(num != numeroAleatorio)
+//{
+
+//Console.WriteLine("Dame el numero de acierto!");
+//num=int.Parse(Console.ReadLine());
+
+//acomulador=acomulador+1;
+
+
+//if (num>numeroAleatorio)
+//{
+  //  Console.WriteLine("El numero es mayor!");
+//}
+  //  if (num<numeroAleatorio)
+   // {
+     //   Console.WriteLine("El numero es menor!");
+    //}
+
+//}
+//Console.WriteLine("El numero es correcto!");
+//Console.WriteLine($"Numero de intentos: {acomulador}");
+
+//Console.ReadKey();
+
+//Uso for
+//for (int i=0; i<=100; i++)
+//{
+  //Console.WriteLine($"{i}");
+//}
+
+//UN sistema donde ingrese una contraseña para abrir una puerta y si no es correcta que se repita el bucle while
+//Console.WriteLine("¿Quiere abrir la puerta?");
+//string respuesta = Console.ReadLine();
+//while(respuesta!= "no")
+//{
+ // Console.WriteLine("Dame la contraseña de la puerta");
+  //int contraseña = 19;
+  //Console.WriteLine($"la puerta se abrira cuando contraseña {contraseña} ");
+  //Console.WriteLine("Desea intentar de nuevo?");
+ // respuesta=19;
+//}
+//Console.ReadKey();
+//Console.WriteLine("La contraseña es correcta");
+
+//declaracion de varibles
+//Console.WriteLine("Dame el primer numero");
+//int num1 = int.Parse(Console.ReadLine());
+//Console.WriteLine("Dame el segundo numero");
+//int num2 = int.Parse(Console.ReadLine());
+//Console.WriteLine($"La suma de los numeros es igual a: {num1+num2}");
+
+//programa que te da por predeterminado los datos del jefe de la empresa esenciales
+//Console.WriteLine("Dame los datos del jefe de la empresa esenciales con matricula: 190902");
+//Console.WriteLine("Su primer nombre es: ");
+//string Primernombre = "Javier";
+//Console.WriteLine(Primernombre);
+//Console.WriteLine("Su segundo nombre es: ");
+//string segundonombre = "Alonso";
+//Console.WriteLine(segundonombre);
+//Console.WriteLine("Y sus apellidos son: ");
+//string apellidos = "Salazar Coronado";
+//Console.WriteLine (apellidos);
+//string NombreCompleto = "Javier Alonso Salazar Coronado";
+//NombreCompleto=String.Concat(Primernombre," ",segundonombre," ",apellidos);
+//Console.WriteLine($"Asi que el nombre completo del jefe es:{NombreCompleto} ");
+//string formato= " ";
+//formato=string.Format ("Usted pidio los datos del jefe el dia {0:dddd d MMMM yyyy h:m s tt} ", DateTime.Now);
+//Console.WriteLine(formato);
+
+//Utilizando foreach
+//string cadena1="Bienvenidos al curso";
+//string cadena2="";
+//foreach(char caracter in cadena1)
+//{
+//Console.WriteLine(caracter);
+ //cadena1
+  //Console.WriteLine(cadena2);
+//}
+
+//Cadenas 
+//Console.WriteLine("Dame tus nombres");
+//string nombre = (Console.ReadLine());
+//Console.WriteLine("Dame tus apellidos");
+//string apellido = (Console.ReadLine());
+//Console.WriteLine("Dame tu edad");
+//string edad = (Console.ReadLine());
+//string resul = "eres mayor de edad";
+//Console.WriteLine($"Tus nombres son {nombre} tus apellidos son {apellido} y tu edad es de {edad} años asi que {resul}");
+
+//Constantes
+//const double PI = 3.1416;
+//Console.WriteLine("Dame la medida del radio");
+//double radio= double.Parse(Console.ReadLine());
+//double area= radio * radio * PI;
+//Console.WriteLine($"El area del círculo es: {area}");
+
+//Metodos
+//static void Main(string[] args)
+//{
+//  Console.WriteLine(sumaNumeros (7, 9));
+//}
+//static int sumaNumeros(int num1, int num2)
+//{
+//  return num1 + num2;
+//}
+//Console.WriteLine("Compañia manofacturera presenta en la semana ");
+//Console.WriteLine("Reporte semanal de fallas: ");
+//Console.WriteLine("Total de fallas en los dias laborales");
+
+//for (int i = 1; i <=8; i++)
+
+//{
+//    Console.WriteLine("Total de fallas tipo: " + i);
+//}
+
+//    int acom= 0;
+//    int mayor= 0;
+//    int menor= 0;
+
+//for(int i = 1; i <=6; i++)
+
+//{
+//    Console.WriteLine("Ingresa la cantidad de fallas");
+//    int fallas=int.Parse(Console.ReadLine());
+
+//    acom= acom + fallas;
+
+ //   if (i==0)
+  //  {
+    //    mayor = fallas;
+      //  menor= fallas;
+    //}
+    //else if (i!=0)
+    //{
+      //  if (fallas < menor)
+       // {
+         //   menor = fallas;
+
+        //}
+        //if (fallas > mayor)
+       // {
+        //    mayor = fallas;
+        //}
+    //}
+//int num;
+//int color;
+
+//Console.WriteLine("Introduzca su clave privada");
+//num = int.Parse(Console.ReadLine());
+
+//Console.WriteLine("Introduzca clave");
+//color = int.Parse(Console.ReadLine());
+
+//while(num!=color)
+//{
+ //   Console.WriteLine("Intentalo de nuevo ");
+  //   color = int.Parse(Console.ReadLine());
+
+//}
+
+  //  Console.WriteLine("Desbloqueado! ");
+
+    //}
+      //  Console.WriteLine("===========================================");
+    //Console.WriteLine("Tipo de falla que más ocurrió: " + mayor);
+      //      Console.WriteLine("===========================================");
+    //Console.WriteLine("Tipo de falla que menos ocurrió: " + menor);
+      //      Console.WriteLine("===========================================");
+
+    // Console.WriteLine($"La suma total es: {acom} ");
+    /*
+  Console.WriteLine("Total de fallas ocurridas en días laborales:");
+  int x;
+x = 1;
+while (x <= 8)
+ {
+   Console.WriteLine(x);
+   x = x + 1;
+ }
+Console.ReadKey();
+int fallMayor=0;
+int fallmenor=99999;
+
+Console.WriteLine("Pon las fallas que hubo en dias laborales");
+for(int i=1; i<=6; i++)
+{
+  Console.WriteLine("Las fallas que hubo en estos dias laborales son");
+  int fall=Convert.ToInt32(Console.ReadLine());
+  if (i==0)
+  {
+    fallMayor=fall;
+    fallmenor=fall;
+  }else if (i!=0)
+  {
+    if(fall < fallmenor)
+    {
+      fallmenor=fall;
+    }
+    if (fall > fallMayor)
+    {
+      fallMayor = fall;
+    }
+  }
+  }
+Console.WriteLine("La falla que mas ocurrio es " + fallMayor);
+Console.WriteLine("La falla que menos ocurrio es " + fallmenor);*/
+
+
+namespace POO
+{
+    public class carro
+    {
+      public string Descripcion;
+      public string Marca;
+      public string Modelo;
+      public int Rodada;
+      public int Velocidades;
+    }
+}
+
+  public void Acelerar()
+  {
+    Console.WriteLine("El carro esta acelerando");
+  }
+
+  public void Frenar()
+  {
+    Console.WriteLine("El carro está frenando");
+  }
+  public void CambioVelocidades()
+  {
+    Console.WriteLine("El carro esta cambiando de velocidad");
+  }
+  public void Reversa()
+  {
+    Console.WriteLine("El carro esta dando reversa");
+  }
+  public void MostrarInformacion()
+  {
+    Console.WriteLine($"Descripción:{Descripción}");
+    Console.WriteLine($"Modelo:{Modelo}");
+    Console.WriteLine($"Marca:{Marca}");
+    Console.WriteLine($"Color:{Color}");
+    Console.WriteLine($"Velocidades:{Velocidades}");
+    Console.WriteLine($"Rodada:{Rodada}");
+  }
+  CharEnumerator Carro1= new carro();
+
+  Carro1.Descripcion="mclaren 720s";
+  Carro1.Marca="McLaren";
+  Carro1.Modelo="720s";
+  Carro1.Color="Anaranjado";
+  Carro1.Velocidades="7";
+  Carro1.Rodada="31 m/h";
+
+  Carro1.Acelerar();
+  Carro1.Frenar();
+  Carro1.CambioVelocidades();
+  Carro1.Reversa();
+  }
+  
